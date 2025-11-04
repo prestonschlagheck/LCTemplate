@@ -1,0 +1,74 @@
+[
+  {
+    "id": "news-01",
+    "title": "GLC Launches Global Learning Atlas",
+    "author": "Amina Torres",
+    "preview": "A dynamic intelligence layer mapping high-performing programs across the consortium.",
+    "tags": ["Announcement", "Data"],
+    "pinned": true,
+    "status": "published",
+    "date": "2025-10-02",
+    "readingTime": "4 min read",
+    "thumbnail": "/Images/Logos/Placeholders/Placeholder.png"
+  },
+  {
+    "id": "news-02",
+    "title": "Partner Spotlight: Horizon University",
+    "author": "Jules Park",
+    "preview": "Inside the leadership playbook that accelerated student success outcomes in one academic year.",
+    "tags": ["Spotlight", "Strategy"],
+    "pinned": false,
+    "status": "published",
+    "date": "2025-09-18",
+    "readingTime": "6 min read",
+    "thumbnail": "/Images/Logos/Placeholders/Placeholder 2.png"
+  },
+  {
+    "id": "news-03",
+    "title": "Designing Equitable Online Pathways",
+    "author": "Kendrick Liu",
+    "preview": "Key takeaways from our equity design sprint featuring six urban districts.",
+    "tags": ["Equity", "Online"],
+    "pinned": false,
+    "status": "draft",
+    "date": "2025-08-11",
+    "readingTime": "5 min read",
+    "thumbnail": "/Images/Logos/Placeholders/Placeholder.png"
+  },
+  {
+    "id": "news-04",
+    "title": "Five Metrics Every Learning Leader Should Track",
+    "author": "Sonya Mehta",
+    "preview": "A metrics framework developed in partnership with the Learning Impact Council.",
+    "tags": ["Framework", "Analytics"],
+    "pinned": false,
+    "status": "published",
+    "date": "2025-08-01",
+    "readingTime": "7 min read",
+    "thumbnail": "/Images/Logos/Placeholders/Placeholder 2.png"
+  },
+  {
+    "id": "news-05",
+    "title": "Fellows Residency: Cohort 12 Highlights",
+    "author": "Maya Connors",
+    "preview": "Immersive engagement results delivered by leaders across three continents.",
+    "tags": ["Residency", "Impact"],
+    "pinned": false,
+    "status": "published",
+    "date": "2025-07-20",
+    "readingTime": "3 min read",
+    "thumbnail": "/Images/Logos/Placeholders/Placeholder.png"
+  },
+  {
+    "id": "news-06",
+    "title": "How AI Supports Personalized Leadership Coaching",
+    "author": "Ravi Patel",
+    "preview": "The emerging toolkit for augmented coaching experiences across the GLC network.",
+    "tags": ["AI", "Coaching"],
+    "pinned": false,
+    "status": "draft",
+    "date": "2025-06-30",
+    "readingTime": "8 min read",
+    "thumbnail": "/Images/Logos/Placeholders/Placeholder 2.png"
+  }
+]

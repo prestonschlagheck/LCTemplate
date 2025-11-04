@@ -1,0 +1,74 @@
+[
+  {
+    "id": "activity-01",
+    "title": "Strategic Learning Lab",
+    "subtitle": "Executive session on cross-campus innovation.",
+    "thumbnail": "/Images/Logos/Placeholders/Placeholder.png",
+    "format": "Immersion",
+    "duration": "2 days",
+    "credits": "2 credits",
+    "hours": "2 hours",
+    "tags": ["Leadership", "Innovation"],
+    "href": "/activities/strategic-learning-lab"
+  },
+  {
+    "id": "activity-02",
+    "title": "Equity Design Sprint",
+    "subtitle": "Rapid prototyping for inclusive learning ecosystems.",
+    "thumbnail": "/Images/Logos/Placeholders/Placeholder 2.png",
+    "format": "Studio",
+    "duration": "6 weeks",
+    "credits": "1 credit",
+    "hours": "3 hours",
+    "tags": ["Equity", "Design"],
+    "href": "/activities/equity-design-sprint"
+  },
+  {
+    "id": "activity-03",
+    "title": "Global Fellows Residency",
+    "subtitle": "Immersive collaboration across international partners.",
+    "thumbnail": "/Images/Logos/Placeholders/Placeholder 2.png",
+    "format": "Residency",
+    "duration": "4 weeks",
+    "credits": "2 credits",
+    "hours": "1 hour",
+    "tags": ["Global", "Partnership"],
+    "href": "/activities/global-fellows-residency"
+  },
+  {
+    "id": "activity-04",
+    "title": "Digital Fluency Accelerator",
+    "subtitle": "Cohort-based upskilling for emerging technologies.",
+    "thumbnail": "/Images/Logos/Placeholders/Placeholder.png",
+    "format": "Cohort",
+    "duration": "8 weeks",
+    "credits": "0 credits",
+    "hours": "2 hours",
+    "tags": ["Technology", "Transformation"],
+    "href": "/activities/digital-fluency-accelerator"
+  },
+  {
+    "id": "activity-05",
+    "title": "Learning Futures Roundtable",
+    "subtitle": "Monthly dialogues with visionary leaders.",
+    "thumbnail": "/Images/Logos/Placeholders/Placeholder 2.png",
+    "format": "Series",
+    "duration": "12 sessions",
+    "credits": "1 credit",
+    "hours": "1 hour",
+    "tags": ["Strategy", "Insight"],
+    "href": "/activities/learning-futures-roundtable"
+  },
+  {
+    "id": "activity-06",
+    "title": "Applied Impact Residency",
+    "subtitle": "Mentored implementation with faculty champions.",
+    "thumbnail": "/Images/Logos/Placeholders/Placeholder.png",
+    "format": "Applied",
+    "duration": "10 weeks",
+    "credits": "2 credits",
+    "hours": "3 hours",
+    "tags": ["Impact", "Mentorship"],
+    "href": "/activities/applied-impact-residency"
+  }
+]

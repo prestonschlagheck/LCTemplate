@@ -1,0 +1,38 @@
+{
+  "overline": "Global Learning Collaborative",
+  "title": "Unlock elevated learning leadership for every campus.",
+  "subtitle": "The GLC Learning Center equips academic teams with premium programming, curated insights, and strategic partnerships tailored for tomorrow's learners.",
+  "primaryAction": {
+    "label": "Explore Activities",
+    "href": "#activities"
+  },
+  "secondaryAction": {
+    "label": "Explore Resources",
+    "href": "#resources"
+  },
+  "statHighlights": [
+    {
+      "id": "impact",
+      "label": "Learner Impact Score",
+      "value": "92",
+      "suffix": "/100",
+      "icon": "sparkle"
+    },
+    {
+      "id": "network",
+      "label": "Partner Institutions",
+      "value": "65+",
+      "icon": "globe"
+    },
+    {
+      "id": "sessions",
+      "label": "Annual Immersions",
+      "value": "48",
+      "icon": "calendarCheck"
+    }
+  ],
+  "media": {
+    "src": "/Images/Logos/Placeholders/Placeholder 2.png",
+    "alt": "Educators collaborating around a strategic roadmap"
+  }
+}

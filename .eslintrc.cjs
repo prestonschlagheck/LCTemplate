@@ -1,0 +1,9 @@
+/** @type {import('eslint').Linter.Config} */
+module.exports = {
+  root: true,
+  extends: ["next/core-web-vitals", "next/typescript", "prettier"],
+  rules: {
+    "@next/next/no-img-element": "off",
+  },
+};
+
