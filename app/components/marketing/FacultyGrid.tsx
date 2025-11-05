@@ -11,17 +11,17 @@ export const FacultyGrid: React.FC = () => {
     <section id="faculty" className="container-max py-24">
       <div className="mx-auto flex w-full max-w-none flex-col gap-4 text-center">
         <Reveal>
-          <span className="text-xs font-semibold uppercase tracking-[0.24em] text-lagoon whitespace-nowrap">
+          <span className="text-xs font-semibold uppercase tracking-[0.24em] text-lagoon lg:whitespace-nowrap">
             Faculty & Steering Committee
           </span>
         </Reveal>
         <Reveal delay={0.06}>
-          <h2 className="text-[2.25rem] font-semibold tracking-[-0.015em] text-bluewhale whitespace-nowrap">
+          <h2 className="text-[2.25rem] font-semibold tracking-[-0.015em] text-bluewhale lg:whitespace-nowrap">
             [Title of section goes here]
           </h2>
         </Reveal>
         <Reveal delay={0.12}>
-          <p className="text-base leading-relaxed text-bluewhale/70 whitespace-nowrap">
+          <p className="text-base leading-relaxed text-bluewhale/70 lg:whitespace-nowrap">
             [Subtitle for section goes here]
           </p>
         </Reveal>

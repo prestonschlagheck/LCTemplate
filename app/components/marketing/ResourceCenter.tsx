@@ -29,13 +29,13 @@ export const ResourceCenter: React.FC = () => {
       <div className="rounded-[28px] border border-bluewhale/12 bg-white/80 p-10 shadow-xl backdrop-blur-md">
         <Reveal className="space-y-6 text-center">
           <div className="space-y-4">
-            <span className="text-xs font-semibold uppercase tracking-[0.24em] text-lagoon whitespace-nowrap">
+            <span className="text-xs font-semibold uppercase tracking-[0.24em] text-lagoon lg:whitespace-nowrap">
               Resource Center
             </span>
-            <h2 className="text-[2.25rem] font-semibold tracking-[-0.015em] text-bluewhale whitespace-nowrap">
+            <h2 className="text-[2.25rem] font-semibold tracking-[-0.015em] text-bluewhale lg:whitespace-nowrap">
               [Title of section goes here]
             </h2>
-            <p className="text-base leading-relaxed text-bluewhale/70 whitespace-nowrap">
+            <p className="text-base leading-relaxed text-bluewhale/70 lg:whitespace-nowrap">
               [Subtitle for section goes here]
             </p>
             {/* Bulleted list removed per request */}
