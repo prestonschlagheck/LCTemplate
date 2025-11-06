@@ -31,6 +31,8 @@ const MarketingPage: React.FC = () => {
   if (!mounted) {
     return (
       <div className="min-h-screen bg-alabaster">
+        {/* Bluewhale background behind header on mobile */}
+        <div className="fixed inset-x-0 top-0 h-[300px] bg-bluewhale -z-10 lg:hidden" />
         <Header />
         <main className="flex flex-col gap-0">
           <Hero />
@@ -49,6 +51,8 @@ const MarketingPage: React.FC = () => {
 
   return (
     <div className="min-h-screen bg-alabaster">
+      {/* Bluewhale background behind header on mobile */}
+      <div className="fixed inset-x-0 top-0 h-[300px] bg-bluewhale -z-10 lg:hidden" />
       <Header />
       <main className="flex flex-col gap-0">
         <Hero />
